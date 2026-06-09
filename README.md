@@ -28,3 +28,6 @@ Develops an image similarity system using EfficientNetV2 to extract features and
 
 **Smoking Classifier using EfficientNetB0**  
 Classifies whether a person is smoking or not using image data and a pre-trained EfficientNetB0 model.
+
+**Image Captioning using Qwen 2.5-VL (Multimodal LLM)**  
+Implements an image captioning system using the Qwen 2.5-VL vision-language model. The model takes an image and a natural language prompt as input and generates a detailed textual description of the image using a transformer-based multimodal architecture that combines vision and language understanding.
